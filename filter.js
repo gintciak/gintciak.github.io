@@ -1,0 +1,1 @@
+const input=document.getElementById('filter'),records=[...document.querySelectorAll('#records .entry')],count=document.getElementById('count');input.addEventListener('input',()=>{let n=0;const q=input.value.toLowerCase().trim();for(const r of records){const show=r.textContent.toLowerCase().includes(q);r.hidden=!show;if(show)n++}count.textContent=n;});
