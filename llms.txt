@@ -1,0 +1,30 @@
+# Aleksei Gintciak
+
+> Associate Professor and laboratory head at Peter the Great St. Petersburg Polytechnic University.
+
+## Main pages
+
+- [Research](https://gintciak.github.io/research-en.html) · [Русский](https://gintciak.github.io/research.html)
+- [Publications](https://gintciak.github.io/publications-en.html) · [Русский](https://gintciak.github.io/publications.html)
+- [Projects](https://gintciak.github.io/projects-en.html) · [Русский](https://gintciak.github.io/projects.html)
+- [Books](https://gintciak.github.io/books-en.html) · [Русский](https://gintciak.github.io/books.html)
+- [Software](https://gintciak.github.io/software-en.html) · [Русский](https://gintciak.github.io/software.html)
+- [Teaching](https://gintciak.github.io/education-en.html) · [Русский](https://gintciak.github.io/education.html)
+- [Honours](https://gintciak.github.io/awards-en.html) · [Русский](https://gintciak.github.io/awards.html)
+- [Contact](https://gintciak.github.io/contacts-en.html) · [Русский](https://gintciak.github.io/contacts.html)
+
+- [Machine-readable bibliography](https://gintciak.github.io/publications.json)
+- [Sitemap](https://gintciak.github.io/sitemap.xml)
+
+## Research areas
+
+- [Simulation-based optimization](https://gintciak.github.io/simulation-en.html) · [Русский](https://gintciak.github.io/simulation.html)
+- [Multi-objective and stochastic optimization](https://gintciak.github.io/optimization-en.html) · [Русский](https://gintciak.github.io/optimization.html)
+- [Multi-agent systems](https://gintciak.github.io/agents-en.html) · [Русский](https://gintciak.github.io/agents.html)
+- [Game theory and strategic interaction](https://gintciak.github.io/games-en.html) · [Русский](https://gintciak.github.io/games.html)
+- [Project and portfolio management](https://gintciak.github.io/projects-management-en.html) · [Русский](https://gintciak.github.io/projects-management.html)
+- [Digital modelling of production systems](https://gintciak.github.io/industry-en.html) · [Русский](https://gintciak.github.io/industry.html)
+- [Intelligent decision support systems](https://gintciak.github.io/decision-support-en.html) · [Русский](https://gintciak.github.io/decision-support.html)
+- [Transport modelling and optimization](https://gintciak.github.io/transport-en.html) · [Русский](https://gintciak.github.io/transport.html)
+- [Modelling socioeconomic systems](https://gintciak.github.io/social-en.html) · [Русский](https://gintciak.github.io/social.html)
+- [Intellectual property management](https://gintciak.github.io/ip-en.html) · [Русский](https://gintciak.github.io/ip.html)
